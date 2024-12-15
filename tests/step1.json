@@ -1,0 +1,8 @@
+{
+  "key": "value",
+  "key-n": 101,
+  "key-o": {
+    "key11": "value11"
+  },
+  "key-l": ["cats", "dogs"]
+}
